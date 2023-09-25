@@ -1,5 +1,5 @@
 # Project-re-learning
-Developed to re-learn
+Developed to re-learn and make progress!
 
 Some description to make the changes
 
